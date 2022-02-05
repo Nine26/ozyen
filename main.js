@@ -9,7 +9,7 @@ client.event = new Discord.Collection();
 })
 
 client.once('ready', () =>{
-    client.user.setActivity({ type: "PLAYING", name: `Call of Duty: Modern Warfare` })//you can change activity her eif you want
+    client.user.setActivity({ type: "PLAYING", name: `Call of Duty: Modern Warfare` })//you can change activity here if you want
 })
 
 
