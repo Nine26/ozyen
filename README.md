@@ -7,13 +7,13 @@ npm i discord.js
 
 ```
 
-# Enter your token in the missing value in line 1
+# Enter your token in the config file
 
 E.g
 
-```javascript
+```json
 
-TOKEN = ("YOUR TOKEN HERE")
+"TOKEN": "YOUR TOKEN HERE
 
 ```
 
