@@ -32,6 +32,11 @@ module.exports = {
         .setColor(0xD88066)
         .setAuthor(' ',message.author.displayAvatarURL())
         .setTitle('Fun')
+        .addField('`%meme`', 'Sends meme')
+        
+
+
+
 
         const pages = [
             BotInfo,
