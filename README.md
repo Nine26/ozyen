@@ -13,7 +13,7 @@ E.g
 
 ```json
 
-"TOKEN": "YOUR TOKEN HERE
+"TOKEN": "YOUR TOKEN HERE"
 
 ```
 
