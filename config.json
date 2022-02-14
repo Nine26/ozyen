@@ -1,4 +1,10 @@
 {
-    "TOKEN": "YOUR TOKEN HERE",
-    "prefix": "#"
+    "TOKEN": "bot token here",
+    "prefix": "#",
+    "feed": "link for rss feed here",
+    "channel": "channel id here"
 }
+
+
+    
+    

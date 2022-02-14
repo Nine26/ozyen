@@ -4,7 +4,7 @@ const url = 'https://www.reddit.com/r/pcmasterrace/hot/.json?limit=100'
 
 module.exports = {
     name: 'pcmr',
-    description: 'sends meme',
+    description: 'sends something from the pcmr subreddit',
     execute(message, args) {
 
         https.get(url, (result) => {
